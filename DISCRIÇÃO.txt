@@ -1,0 +1,11 @@
+-Cliente possui conta: Um cliente pode possuir uma ou mais contas.
+
+-Conta possui produto: Uma conta pode estar associada a um ou mais produtos.
+
+-Transação ocorre em conta: Uma transação é realizada em uma conta.
+
+-Funcionário realiza transação: Um funcionário pode realizar transações em contas.
+
+-Cliente e funcionário: Um funcionário pode ser responsável por um ou mais clientes.
+
+-Produto e transação: Uma transação pode ser realizada para adquirir ou cancelar um produto.
